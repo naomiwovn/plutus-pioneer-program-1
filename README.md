@@ -16,9 +16,6 @@
 - [Lecture #2](https://youtu.be/sN3BIa3GAOc)
 
 
-
-
-
   - Triggering change.
   - Low-level, untyped on-chain validation scripts.
   - High-level, typed on-chain validation scripts.
